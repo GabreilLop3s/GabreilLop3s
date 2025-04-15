@@ -6,9 +6,7 @@
 
 **`Desenvolvedor e Analista de Sistemas`**
 
-Me chamo Gabriel Barbosa de Azevedo Lopes, tenho 19 anos e sou natural de São Paulo. Concluí o ensino médio na Waldorf Micael de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade IMPACTA de Tecnologia. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu LinkedIn [Gabriel Lopes](https://www.linkedin.com/in/gabriel-barbosa-lopes), onde comento sobre tendências do mundo TECH e mostro meus projetos e conquistas. Tenho grande interesse em inovações e Inteligência Artificial — acredito que um dia criarei algo totalmente novo que agregará à sociedade.
-
----
+Me chamo Gabriel Barbosa de Azevedo Lopes, tenho 19 anos e sou natural de São Paulo. Concluí o ensino médio na Waldorf Micael de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade IMPACTA de Tecnologia. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu LinkedIn [Gabriel Lopes](https://www.linkedin.com/in/gabriel-barbosa-lopes), onde comento sobre tendências do mundo TECH e mostro meus projetos e conquistas. Tenho grande interesse em inovações, automação e Inteligência Artificial.
 
 ### 🤖 Linguagens e Tecnologias
 
