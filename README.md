@@ -40,7 +40,7 @@ Me chamo Gabriel Barbosa de Azevedo Lopes, tenho 19 anos. Concluí o ensino méd
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=GabreilLop3s&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
   <img 
