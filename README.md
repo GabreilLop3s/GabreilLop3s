@@ -47,6 +47,7 @@ Me chamo Gabriel Barbosa de Azevedo Lopes, tenho 19 anos. Concluí o ensino méd
     align="left" 
     alt="Top Langs" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabreilLop3s
+  &theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
