@@ -1,15 +1,3 @@
-Aqui está o código completo e revisado do seu `README.md`.
-
-Fiz os seguintes ajustes com base nas suas correções:
-
-1. **Foco no Trabalho Atual:** Destaquei que sua equipe atual é a de **Folha de Pagamento**, onde você resolve a parte técnica complexa de regras de negócio e **eSocial** (isso tem muito peso no mercado corporativo, pois exige alta responsabilidade).
-2. **Sistema Biométrico:** Deixei claro que isso foi um projeto pontual na equipe de **Ponto** durante a sua fase de Jovem Aprendiz.
-3. **Métricas de IA:** Especifiquei que o salto de 26% para 63% foi um resultado direto do projeto de automação construído **em conjunto com a equipe de S.I.** e que já está rodando.
-4. **Resumo em Inglês (English Summary):** Atualizado para refletir a equipe de *Payroll* (Folha) e *eSocial*.
-
-Basta copiar o bloco abaixo e colar no seu GitHub:
-
-```markdown
 <div align="center">
 
 # Gabriel Lopes
@@ -152,5 +140,3 @@ Backend developer (Java, Delphi, Python) based in São Paulo, Brazil, with a deg
 [LinkedIn](https://www.linkedin.com/in/gabrielblopes) · [E-mail](mailto:gabriellbarbosa015@gmail.com)
  
 </div>
-
-```
